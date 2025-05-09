@@ -1,5 +1,5 @@
 version = 1
-SPDX-PackageName = "sap-community-abap-developer-challenge"
+SPDX-PackageName = "ZPKG_ABAP_BJ"
 SPDX-PackageSupplier = "basant.joshi@inveniolsi.com"
 SPDX-PackageDownloadLocation = "https://github.com/BasantJoshi01/ABAPROOMSOLUTION"
 SPDX-PackageComment = "This Include All cds and requirements need to be fulfill."

@@ -1,11 +1,11 @@
 version = 1
 SPDX-PackageName = "sap-community-abap-developer-challenge"
 SPDX-PackageSupplier = "basant.joshi@inveniolsi.com"
-SPDX-PackageDownloadLocation = "https://github.com/sap-samples/sap-community-abap-developer-challenge"
+SPDX-PackageDownloadLocation = "https://github.com/BasantJoshi01/ABAPROOMSOLUTION"
 SPDX-PackageComment = "This Include All cds and requirements need to be fulfill."
 
 [[annotations]]
 path = "**"
 precedence = "aggregate"
-SPDX-FileCopyrightText = "2024 SAP SE or an SAP affiliate company and sap-community-abap-developer-challenge contributors"
-SPDX-License-Identifier = "Apache-2.0"
+SPDX-FileCopyrightText = "2025 SAP SE or an SAP affiliate company and sap-community-abap-developer-challenge contributors"
+SPDX-License-Identifier = "GPL-3.0-or-later"
